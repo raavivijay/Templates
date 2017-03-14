@@ -19,6 +19,10 @@
     },
     "sizeOfDiskInGB":{
       "value": "20"
+    },
+    "dataDisks":{
+      "value": "vdatasisky"
     }
+
   }  
 }
