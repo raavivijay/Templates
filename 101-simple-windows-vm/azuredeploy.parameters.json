@@ -9,7 +9,7 @@
       "value": "admin123"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "ADmin123_!" 
     },
     "dnsNameForPublicIP": {
       "value": "myDnsName"
